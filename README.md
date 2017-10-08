@@ -2,7 +2,7 @@
 
 ```
 There are 2 applications:
-- the first is an application wich put a file writted in speudo asm code to a binary file.
+- the first is an application wich put a file written in speudo asm code to a binary file.
 - the second is a Virtual Machine wich execute the  programs received in argument, and it can tell which programs have won the corewar.
 To win the corewar, a program have to call a certain fonction knew by the VM and it have to call it last.
 
@@ -40,7 +40,7 @@ make fclean
 
 # HOW IT WORKS
 ```
-Transform a program writted in speudo asm to binary format as:
+Transform a program written in speudo asm to binary format as:
 
 For example, the command ./asm cristianno.s will give a binary file cristianno.cor
 
