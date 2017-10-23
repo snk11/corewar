@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 ```
-There are 2 applications:
+These are 2 applications:
 - the first is an application wich put a file written in speudo asm code to a binary file.
 - the second is a Virtual Machine wich executes the  programs received in argument, and it can tell which programs have won the corewar.
 To win the corewar, a contender have to launch a certain fonction knew by the VM, this particular function calls the contender's name  and in addition it have to do it last.
