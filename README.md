@@ -45,7 +45,7 @@ Transform a program written in speudo asm to binary format as:
 For example, the command ./asm cristianno.s will give a binary file cristianno.cor
 
 put this binary file in argument of the VM application with the command ./corewar -d 20000 cristianno.cor cristianno.cor
-the corewar between the program cristianno vs himself give fortunatly cristianno number 2 as winner, with the output:
+the corewar between the program cristianno vs himself give cristianno number 2 as winner, with the output:
 Constestant 2, cristianno, has won !
 
 
